@@ -1,1 +1,3 @@
-# Repository-of-OS-Scheduling-
+Priyansh Shrivastava
+0827CO191043
+Computer Engineering
